@@ -13,3 +13,8 @@ Non-Functional Requirements are what the system needs in order to provide functi
 
 Example:
 - Scalability: The system has to be capable of growing with its user base
+
+## Why this matters in an Interview
+Functional requirements show that you understand the core features of the system. It also creates a basis on which your design will develop from
+
+Non-Functional requirements reflect on how your system will handle real world constraints and user experience / expectations.  
